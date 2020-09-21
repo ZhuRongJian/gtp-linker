@@ -1,3 +1,5 @@
+[English](https://github.com/ZhuRongJian/gtp-linker)|简体中文
+
 ### 2020福州世界人工智能赛-AI连接器使用文档
 
 ##### 请确保您的连接器为大会最新版本，当前版本v1.0。
