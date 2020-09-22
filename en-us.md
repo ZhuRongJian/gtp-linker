@@ -62,7 +62,6 @@ boardsize
 time_settings
 play
 gen_move
-undo
 time_left
 komi
 kgs-time_settings
