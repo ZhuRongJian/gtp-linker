@@ -2,7 +2,7 @@ English | [简体中文](https://github.com/ZhuRongJian/gtp-linker/blob/master/z
 
 ### Competition Notes for 2020 Fuzhou World AI Go Provisions 
 
-##### Please ensure your AI connector version is the latest, it's v1.0.
+##### Please ensure your AI connector version is the latest, it's v1.3.
 ##### 
 #### 1. GTP connector download and instructions for use
 > https://github.com/ZhuRongJian/gtp-linker/releases
