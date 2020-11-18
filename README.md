@@ -1,4 +1,4 @@
-简体中文 | [English](https://github.com/ZhuRongJian/gtp-linker/blob/master/zh-en.md)
+简体中文 | [English](https://github.com/ZhuRongJian/gtp-linker/blob/master/us-en.md)
 
 ## 2020福州世界人工智能赛-AI连接器使用文档
 
